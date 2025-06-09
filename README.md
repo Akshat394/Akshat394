@@ -1,7 +1,7 @@
 <!-- Futuristic GitHub README (Non-Neon, Clean Aesthetic with Vibrant Accents) -->
 
 <div align="center">
-  <img src="F:\Github profiling\Akshat394\github dp.jpg" width="160" alt="Akshat Trivedi Avatar">
+  <img src="https://raw.githubusercontent.com/Akshat394/Akshat394/main/github%20dp.jpg" alt="Akshat Rastogi" width="200" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);">
   <h1 style="color:#5ce1e6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Akshat Trivedi</h1>
   <p><em>Full Stack & AI Developer | B.Tech IT @ PSIT Kanpur</em></p>
   <p><a href="mailto:akshattrivedi394@gmail.com">akshattrivedi394@gmail.com</a></p>
