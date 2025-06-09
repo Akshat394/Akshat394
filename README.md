@@ -1,7 +1,7 @@
 <!-- ⚡️ Futuristic GitHub README - Revamped from Scratch -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Akshat394/Akshat394/main/github%20dp.jpg" alt="Akshat Rastogi" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="https://github.com/Akshat394/Akshat394/blob/main/profile.png" width="140" alt="Avatar" />
   <h1 style="font-family:Segoe UI, sans-serif; color:#5ce1e6;">Akshat Trivedi</h1>
   <p><em>Full Stack & AI Developer | Tech Explorer @ PSIT Kanpur</em></p>
   <p><a href="mailto:akshattrivedi394@gmail.com">📩 akshattrivedi394@gmail.com</a></p>
