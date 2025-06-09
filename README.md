@@ -13,7 +13,9 @@
   - 🌆 SmartCity360 – A Big Data platform for urban intelligence  
 - 📚 Pursuing **B.Tech in Information Technology** from **PSIT, Kanpur**  
 - 🤝 Always open to collaboration on **AI/ML**, **Full Stack**, or **Security** projects  
-- 📫 Reach me at: **akshattrivedi394@gmail.com**
+- 📫 Contact Me
+  - Email: akshattrivedi394@gmail.com
+  - LinkedIn: [Akshat Trivedi](https://www.linkedin.com/in/akshat-trivedi-394/)
 
 ---
 
@@ -21,9 +23,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/akshat-trived1/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
-  </a>
-  <a href="https://twitter.com/_akshat_trivedi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" />
   </a>
 </p>
 
