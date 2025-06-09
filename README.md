@@ -1,8 +1,8 @@
-<!-- Futuristic GitHub README (Non-Neon, Clean Aesthetic) -->
+<!-- Futuristic GitHub README (Non-Neon, Clean Aesthetic with Vibrant Accents) -->
 
 <div align="center">
-  <img src="https://github.com/Akshat394/Akshat394/blob/main/profile.png" width="160" alt="Akshat Trivedi Avatar">
-  <h1>Akshat Trivedi</h1>
+  <img src="F:\Github profiling\Akshat394\github dp.jpg" width="160" alt="Akshat Trivedi Avatar">
+  <h1 style="color:#5ce1e6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Akshat Trivedi</h1>
   <p><em>Full Stack & AI Developer | B.Tech IT @ PSIT Kanpur</em></p>
   <p><a href="mailto:akshattrivedi394@gmail.com">akshattrivedi394@gmail.com</a></p>
 </div>
@@ -18,16 +18,11 @@
 
 ---
 
-### 🚀 Projects
+### 🧠 Now Playing
 
-- **ResumeGPT**: AI-powered resume builder using Google Gemini
-  - [Live Demo](https://resume-gpt-rosy.vercel.app/)
-- **PSIT Virtual Labs**: Interactive platform for virtual experiments
-  - [Live Demo](https://psit-virtual-labs.netlify.app/)
-- **PulseSenti**: Real-time sentiment analysis tool
-  - [Live Demo](https://pulsesenti-realtime-sentiment.netlify.app/)
-- **ASCII Deepfake Detection**: Deepfake detection using ASCII art
-  - [Live Demo](https://ascii-deepfake-detection.netlify.app/)
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zxk5i4dm2jl4woqafj53dxyw2m&cover_image=true&theme=novatorem&bar_color=5ce1e6&bar_color_cover=false" />
+</div>
 
 ---
 
@@ -36,7 +31,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/Akshat394/Akshat394/blob/main/profile.png" width="120"></td>
-    <td><strong>ResumeGPT</strong><br/>AI Resume Generator + Analyzer<br/><a href="#">Live Demo</a></td>
+    <td><strong>ResumeGPT</strong><br/>AI Resume Generator + Analyzer<br/><a href="https://resume-gpt-rosy.vercel.app/">Live Demo</a></td>
   </tr>
   <tr>
     <td><img src="https://media.tenor.com/VgGAI0fuB94AAAAd/monty-python-rabbit.gif" width="120"></td>
@@ -50,19 +45,25 @@
 
 ---
 
-### 🏆 Highlights Timeline
+### 📌 Achievements Timeline
 
-- 🧠 <strong>2025</strong> – ResumeGPT: GenAI Resume Assistant
-- 🌆 <strong>2025</strong> – SmartCity360: Real-time Urban Insights
-- 🧪 <strong>2024</strong> – Deepfake Detection (98% F1 Score)
-- 🎮 <strong>2023</strong> – FairPlay: Anti-Doping Education Game
-- ✋ <strong>2022</strong> – IAir CTRL: Hand Gesture System
+```yaml
+2025:
+  - 🧠 ResumeGPT: GenAI Resume Assistant
+  - 🌆 SmartCity360: Real-time Urban Insights
+2024:
+  - 🧪 Deepfake Detection (98% F1 Score)
+2023:
+  - 🎮 FairPlay: Anti-Doping Education Game
+2022:
+  - ✋ IAir CTRL: Hand Gesture System
+```
 
 ---
 
 ### 🧰 Languages & Tools
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30">
@@ -71,23 +72,31 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="30">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30">
-</div>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akshat394&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=5ce1e6&icon_color=5ce1e6" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat394&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=5ce1e6" height="180">
-</div>
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Akshat394&bg_color=0d1117&color=5ce1e6&line=5ce1e6&point=ffffff&area=true&hide_border=true">
+</p>
 
 ---
 
-### 📫 Connect With Me
+### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=5ce1e6)](https://www.linkedin.com/in/akshat-trivedi-394/)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat&logo=gmail&logoColor=5ce1e6)](mailto:akshattrivedi394@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshat-trivedi-394/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=5ce1e6"/>
+  </a>
+  <a href="mailto:akshattrivedi394@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=5ce1e6"/>
+  </a>
+</p>
 
 ---
 
