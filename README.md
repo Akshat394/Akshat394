@@ -18,6 +18,19 @@
 
 ---
 
+### 🚀 Projects
+
+- **ResumeGPT**: AI-powered resume builder using Google Gemini
+  - [Live Demo](https://resume-gpt-rosy.vercel.app/)
+- **PSIT Virtual Labs**: Interactive platform for virtual experiments
+  - [Live Demo](https://psit-virtual-labs.netlify.app/)
+- **PulseSenti**: Real-time sentiment analysis tool
+  - [Live Demo](https://pulsesenti-realtime-sentiment.netlify.app/)
+- **ASCII Deepfake Detection**: Deepfake detection using ASCII art
+  - [Live Demo](https://ascii-deepfake-detection.netlify.app/)
+
+---
+
 ### 🚀 Featured Projects
 
 <table>
