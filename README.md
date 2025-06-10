@@ -35,9 +35,7 @@
 <div align="center">
   <img src="https://github.com/Akshat394/Akshat394/blob/main/KK%20poster.jpg?raw=true" width="300" alt="KK Poster" />
   <br/>
-  <a href="https://open.spotify.com/user/31zxk5i4dm2jl4woqafj53dxyw2m">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zxk5i4dm2jl4woqafj53dxyw2m&cover_image=true&theme=novatorem&bar_color=5ce1e6&bar_color_cover=false&current_track=Khuda%20Jaane%20-%20KK" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zxk5i4dm2jl4woqafj53dxyw2m&theme=dark&show_offline=false&background_color=000000&bar_color=5ce1e6&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
 
 ---
