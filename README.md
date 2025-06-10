@@ -5,6 +5,11 @@
   <h1 style="font-family:Segoe UI, sans-serif; color:#5ce1e6;">Akshat Trivedi</h1>
   <p><em>Full Stack & AI Developer | Tech Explorer @ PSIT Kanpur</em></p>
   <p><a href="mailto:akshattrivedi394@gmail.com">📩 akshattrivedi394@gmail.com</a></p>
+  <p>
+    <a href="https://leetcode.com/u/cannister2k22/" target="_blank">LeetCode</a> |
+    <a href="https://www.hackerrank.com/profile/2201640130012_IT" target="_blank">HackerRank</a> |
+    <a href="https://www.linkedin.com/in/akshat-trived1/" target="_blank">LinkedIn</a>
+  </p>
 </div>
 
 ---
@@ -89,10 +94,6 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Akshat394/Akshat394/output/github-contribution-grid-snake-sissa.svg" alt="github contribution grid snake animation" />
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
