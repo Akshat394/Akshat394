@@ -35,7 +35,7 @@
 <div align="center">
   <img src="https://github.com/Akshat394/Akshat394/blob/main/KK%20poster.jpg?raw=true" width="300" alt="KK Poster" />
   <br/>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zxk5i4dm2jl4woqafj53dxyw2m&theme=dark&show_offline=false&background_color=000000&bar_color=5ce1e6&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zxk5i4dm2jl4woqafj53dxyw2m&theme=merko&show_offline=false&background_color=0D1117&bar_color=5ce1e6&bar_color_cover=false&show_icons=true&show_recently_played=true" alt="Spotify Now Playing" />
 </div>
 
 ---
