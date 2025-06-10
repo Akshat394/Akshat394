@@ -90,6 +90,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Akshat394/Akshat394/blob/output/dist/github-contribution-grid-snake-sissa.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Akshat394/Akshat394/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Akshat394/Akshat394/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+</div>
