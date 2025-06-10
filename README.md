@@ -22,10 +22,11 @@
 
 | Description | Demo |
 |-------------|------|
-| `ResumeGPT` – AI-powered resume assistant | [🌐 Live Demo](https://resume-gpt-rosy.vercel.app/) |
-| `SmartRetail360` – AI Supply Chain Platform | [📊 GitHub](https://github.com/Akshat394/SmartRetail360) |
-| `Deepfake Detection` – ASCII-optimized detection | [🔍 GitHub](https://github.com/Akshat394/Deepfake-Detection) |
-| `BLT-CNN Research` – Antibiotic Resistance Prediction | [📄 Paper](#) |
+| `PSIT Virtual LABS` – Interactive virtual laboratory platform for PSIT students | [🌐 Live](https://psit-virtual-labs.netlify.app/) \| [📦 GitHub](https://github.com/Akshat394/PSIT-VIRTUAL-LABS) |
+| `Deepfake Detector` – ASCII-optimized deepfake detection system | [🌐 Live](https://ascii-deepfake-detection.netlify.app/) \| [📦 GitHub](https://github.com/Akshat394/DEEPFAKE-DETECTOR) |
+| `Sentiment AI Anomaly Detector` – Real-time sentiment analysis dashboard | [🌐 Live](https://pulsesenti-realtime-sentiment.netlify.app/) \| [📦 GitHub](https://github.com/Akshat394/Pulsesenti_sentiment_analysis_dashboard) |
+| `ResumeGPT` – AI-powered resume generation & analysis | [🌐 Live](https://resume-gpt-rosy.vercel.app/) \| [📦 GitHub](https://github.com/Akshat394/resume-gpt) |
+| `P2P Book Exchange` – Decentralized book sharing platform | [🌐 Live](https://p2p-book-exchange.vercel.app/) \| [📦 GitHub](https://github.com/Akshat394/p2p-book-exchange-app) |
 
 ---
 
@@ -48,7 +49,7 @@
 2023:
   - 🎮 FairPlay launched in sports hackathon
 2022:
-  - ✋ IAir CTRL: Real-time gesture recognition with CNN + Flask
+  - ✋ Air CTRL: Real-time gesture recognition with CNN + Flask
 ```
 
 ---
