@@ -91,6 +91,5 @@
 ---
 
 <div align="center">
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/Akshat394/Akshat394/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/Akshat394/Akshat394/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+  <img src="https://raw.githubusercontent.com/Akshat394/Akshat394/output/github-contribution-grid-snake-sissa.svg" alt="github contribution grid snake animation" />
 </div>
