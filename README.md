@@ -33,7 +33,7 @@
 ## 🧠 Now Playing
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Akshat394/Akshat394/main/KK%20poster.jpg" width="300" alt="KK Poster" />
+  <img src="https://github.com/Akshat394/Akshat394/blob/main/KK%20poster.jpg?raw=true" width="300" alt="KK Poster" />
   <br/>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zxk5i4dm2jl4woqafj53dxyw2m&cover_image=true&theme=novatorem&bar_color=5ce1e6&bar_color_cover=false&current_track=Khuda%20Jaane%20-%20KK" width="100%">
 </div>
