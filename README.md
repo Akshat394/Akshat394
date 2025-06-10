@@ -93,3 +93,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Akshat394/Akshat394/output/github-contribution-grid-snake-sissa.svg" alt="github contribution grid snake animation" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+</div>
