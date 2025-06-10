@@ -6,9 +6,9 @@
   <p><em>Full Stack & AI Developer | Tech Explorer @ PSIT Kanpur</em></p>
   <p><a href="mailto:akshattrivedi394@gmail.com">📩 akshattrivedi394@gmail.com</a></p>
   <p>
-    <a href="https://leetcode.com/u/cannister2k22/" target="_blank">LeetCode</a> |
-    <a href="https://www.hackerrank.com/profile/2201640130012_IT" target="_blank">HackerRank</a> |
-    <a href="https://www.linkedin.com/in/akshat-trived1/" target="_blank">LinkedIn</a>
+    <a href="https://leetcode.com/u/cannister2k22/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a> |
+    <a href="https://www.hackerrank.com/profile/2201640130012_IT" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a> |
+    <a href="https://www.linkedin.com/in/akshat-trived1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   </p>
 </div>
 
