@@ -1,7 +1,7 @@
 <!-- ⚡️ Futuristic GitHub README - Revamped from Scratch -->
 
 <div align="center">
-  <img src="https://github.com/Akshat394/Akshat394/blob/main/profile.png" width="140" alt="Avatar" />
+  <img src="https://github.com/Akshat394/Akshat394/blob/main/github%20dp.jpg?raw=true" width="140" alt="Avatar" />
   <h1 style="font-family:Segoe UI, sans-serif; color:#5ce1e6;">Akshat Trivedi</h1>
   <p><em>Full Stack & AI Developer | Tech Explorer @ PSIT Kanpur</em></p>
   <p><a href="mailto:akshattrivedi394@gmail.com">📩 akshattrivedi394@gmail.com</a></p>
@@ -11,10 +11,10 @@
 
 ## 🔬 Current Focus
 
+- 🏪 **SmartRetail360**: AI-driven supply chain with real-time forecasts and carbon-aware routing
 - 🛠 **ResumeGPT**: AI resume generation & analysis using Gemini + OpenAI
-- 🏙 **SmartCity360**: Big Data platform for real-time urban insights
-- 🐰 **Monty Python RPG**: ASCII-based, sarcastic text RPG (with killer rabbits)
-- ⚛️ **Quantum Error Computing**: Academic research & paper underway
+- 🧬 **BLT-CNN Research**: Hybrid Fusion for Antibiotic Resistance Prediction
+- 🎭 **Deepfake Detection**: Advanced detection using ASCII optimization
 
 ---
 
@@ -22,17 +22,17 @@
 
 | Project | Description | Demo |
 |--------|-------------|------|
-| ![ResumeGPT](https://github.com/Akshat394/Akshat394/blob/main/profile.png) | `ResumeGPT` – AI-powered resume assistant built using Gemini + LangChain | [🌐 Demo](https://resume-gpt-rosy.vercel.app/) |
-| ![RPG](https://media.tenor.com/VgGAI0fuB94AAAAd/monty-python-rabbit.gif) | `Monty Python RPG` – Hilarious terminal RPG with ASCII art & quests | [🎮 Play](#) |
-| ![SmartCity](https://images.pexels.com/photos/4386371/pexels-photo-4386371.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=120) | `SmartCity360` – Live urban data analytics with Big Data stack | [📊 View](#) |
-| ![FairPlay](https://media.giphy.com/media/3o7TKy5m2V1c5xX86Q/giphy.gif) | `FairPlay` – Gamified Anti-Doping App for athletes | [🧬 Explore](#) |
+| ![ResumeGPT](https://github.com/Akshat394/Akshat394/blob/main/profile.png) | `ResumeGPT` – AI-powered resume assistant | [🌐 Live Demo](https://resume-gpt-rosy.vercel.app/) |
+| ![SmartRetail](https://images.pexels.com/photos/4386371/pexels-photo-4386371.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=120) | `SmartRetail360` – AI Supply Chain Platform | [📊 GitHub](https://github.com/Akshat394/SmartRetail360) |
+| ![Deepfake](https://media.giphy.com/media/3o7TKy5m2V1c5xX86Q/giphy.gif) | `Deepfake Detection` – ASCII-optimized detection | [🔍 GitHub](https://github.com/Akshat394/Deepfake-Detection) |
+| ![BLT-CNN](https://media.tenor.com/VgGAI0fuB94AAAAd/monty-python-rabbit.gif) | `BLT-CNN Research` – Antibiotic Resistance Prediction | [📄 Paper](#) |
 
 ---
 
 ## 🧠 Now Playing
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zxk5i4dm2jl4woqafj53dxyw2m&cover_image=true&theme=novatorem&bar_color=5ce1e6&bar_color_cover=false" width="100%">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zxk5i4dm2jl4woqafj53dxyw2m&cover_image=true&theme=novatorem&bar_color=5ce1e6&bar_color_cover=false&current_track=Khuda%20Jaane%20-%20KK" width="100%">
 </div>
 
 ---
