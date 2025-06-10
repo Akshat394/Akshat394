@@ -20,12 +20,12 @@
 
 ## 🔥 Showcase Wall
 
-| Project | Description | Demo |
-|--------|-------------|------|
-| ![ResumeGPT](https://github.com/Akshat394/Akshat394/blob/main/profile.png) | `ResumeGPT` – AI-powered resume assistant | [🌐 Live Demo](https://resume-gpt-rosy.vercel.app/) |
-| ![SmartRetail](https://images.pexels.com/photos/4386371/pexels-photo-4386371.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=120) | `SmartRetail360` – AI Supply Chain Platform | [📊 GitHub](https://github.com/Akshat394/SmartRetail360) |
-| ![Deepfake](https://media.giphy.com/media/3o7TKy5m2V1c5xX86Q/giphy.gif) | `Deepfake Detection` – ASCII-optimized detection | [🔍 GitHub](https://github.com/Akshat394/Deepfake-Detection) |
-| ![BLT-CNN](https://media.tenor.com/VgGAI0fuB94AAAAd/monty-python-rabbit.gif) | `BLT-CNN Research` – Antibiotic Resistance Prediction | [📄 Paper](#) |
+| Description | Demo |
+|-------------|------|
+| `ResumeGPT` – AI-powered resume assistant | [🌐 Live Demo](https://resume-gpt-rosy.vercel.app/) |
+| `SmartRetail360` – AI Supply Chain Platform | [📊 GitHub](https://github.com/Akshat394/SmartRetail360) |
+| `Deepfake Detection` – ASCII-optimized detection | [🔍 GitHub](https://github.com/Akshat394/Deepfake-Detection) |
+| `BLT-CNN Research` – Antibiotic Resistance Prediction | [📄 Paper](#) |
 
 ---
 
