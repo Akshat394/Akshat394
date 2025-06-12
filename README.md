@@ -54,12 +54,12 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,mongodb,git,docker,tensorflow,hadoop,spark&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,mongodb,git,docker,tensorflow,hadoop,spark,c,cpp,vscode,pycharm,androidstudio,kafka&theme=light" />
 </p>
 
 ---
 
-## �� GitHub Analytics
+## 🔥 GitHub Analytics
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
