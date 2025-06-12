@@ -59,7 +59,10 @@
 
 ---
 
-## 📈 GitHub Analytics
+## �� GitHub Analytics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akshat394&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
