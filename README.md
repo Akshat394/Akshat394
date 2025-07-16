@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/Akshat394/Akshat394/blob/main/github%20dp.jpg?raw=true" width="140" alt="Avatar" />
   <h1 style="font-family:Segoe UI, sans-serif; color:#5ce1e6;">Akshat Trivedi</h1>
-  <p><em>Full Stack & AI Developer | Tech Explorer @ PSIT Kanpur</em></p>
+  <p><em>Software Engineer, Full Stack & AI Developer | Tech Explorer @ PSIT Kanpur</em></p>
   <p><a href="mailto:akshattrivedi394@gmail.com">📩 akshattrivedi394@gmail.com</a></p>
   <p>
     <a href="https://leetcode.com/u/cannister2k22/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a> |
