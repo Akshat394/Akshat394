@@ -54,7 +54,7 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,react,nodejs,flask,mongodb,git,docker,tensorflow,hadoop,spark,kafka,vscode,pycharm,androidstudio&theme=light&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,react,nodejs,flask,mongodb,git,docker,tensorflow,hadoop,spark,kafka,vscode,pycharm,androidstudio&theme=light&perline=13" />
 </p>
 
 ---
