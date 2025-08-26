@@ -79,9 +79,7 @@
 
 ## 🏆 Trophies
 
-<p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshat394&theme=gruvbox)
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshat394&theme=gruvbox)
 
 ---
 
